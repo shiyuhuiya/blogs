@@ -1,1 +1,1 @@
-const fs=require("fs"),path=require("path");try{fs.unlinkSync(path.join(__dirname,"pluginsSrc/twikoo/dist/twikoo.all.min.js")),console.log("文件删除成功")}catch(o){console.error("文件删除失败:",o)}
+const fs=require("fs"),path=require("path");console.log(__dirname);try{fs.unlinkSync(path.join(__dirname,"pluginsSrc/twikoo/dist/twikoo.all.min.js")),console.log("文件删除成功")}catch(o){console.error("文件删除失败:",o)}
