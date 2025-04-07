@@ -290,14 +290,14 @@
 
   
   <url>
-    <loc>https://www.sanye.blog/tags/git/</loc>
+    <loc>https://www.sanye.blog/tags/hexo/</loc>
     <lastmod>2025-04-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.sanye.blog/tags/hexo/</loc>
+    <loc>https://www.sanye.blog/tags/git/</loc>
     <lastmod>2025-04-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -360,6 +360,13 @@
   </url>
   
   <url>
+    <loc>https://www.sanye.blog/tags/vue/</loc>
+    <lastmod>2025-04-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://www.sanye.blog/tags/react/</loc>
     <lastmod>2025-04-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -374,7 +381,14 @@
   </url>
   
   <url>
-    <loc>https://www.sanye.blog/tags/vue/</loc>
+    <loc>https://www.sanye.blog/tags/es6/</loc>
+    <lastmod>2025-04-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.sanye.blog/tags/js/</loc>
     <lastmod>2025-04-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -388,7 +402,7 @@
   </url>
   
   <url>
-    <loc>https://www.sanye.blog/tags/es6/</loc>
+    <loc>https://www.sanye.blog/tags/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/</loc>
     <lastmod>2025-04-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -423,20 +437,6 @@
   </url>
   
   <url>
-    <loc>https://www.sanye.blog/tags/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/</loc>
-    <lastmod>2025-04-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.sanye.blog/tags/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/</loc>
-    <lastmod>2025-04-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.sanye.blog/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/</loc>
     <lastmod>2025-04-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -451,20 +451,13 @@
   </url>
   
   <url>
-    <loc>https://www.sanye.blog/tags/js/</loc>
+    <loc>https://www.sanye.blog/tags/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/</loc>
     <lastmod>2025-04-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
 
-  
-  <url>
-    <loc>https://www.sanye.blog/categories/git/</loc>
-    <lastmod>2025-04-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
   
   <url>
     <loc>https://www.sanye.blog/categories/hexo/</loc>
@@ -481,21 +474,14 @@
   </url>
   
   <url>
+    <loc>https://www.sanye.blog/categories/git/</loc>
+    <lastmod>2025-04-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://www.sanye.blog/categories/uniapp/</loc>
-    <lastmod>2025-04-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.sanye.blog/categories/webpack/</loc>
-    <lastmod>2025-04-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.sanye.blog/categories/react/</loc>
     <lastmod>2025-04-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -509,7 +495,28 @@
   </url>
   
   <url>
+    <loc>https://www.sanye.blog/categories/react/</loc>
+    <lastmod>2025-04-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.sanye.blog/categories/webpack/</loc>
+    <lastmod>2025-04-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://www.sanye.blog/categories/%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95/</loc>
+    <lastmod>2025-04-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.sanye.blog/categories/js/</loc>
     <lastmod>2025-04-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -524,13 +531,6 @@
   
   <url>
     <loc>https://www.sanye.blog/categories/%E8%AE%A1%E7%A7%91%E4%B8%93%E4%B8%9A%E6%A0%B8%E5%BF%83/</loc>
-    <lastmod>2025-04-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.sanye.blog/categories/js/</loc>
     <lastmod>2025-04-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
