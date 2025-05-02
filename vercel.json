@@ -1,1 +1,1 @@
-{"headers":[{"source":"/animeClips/video/(.*)","headers":[{"key":"Cache-Control","value":"max-age=300"}]}]}
+{"headers":[{"source":"/*","headers":[{"key":"Cache-Control","value":"max-age=3000"}]}]}
