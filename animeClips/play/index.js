@@ -8,13 +8,16 @@ if (/\/animeClips\/play/.test(location.pathname)) {
     const v = document.querySelector('#article-container video')
     v.src = `/animeClips/video/${video}.mp4`
     //支持自定义标题
-    document.querySelector('.page-title').innerHTML = `<i class="fa-solid fa-arrow-left" onclick="history.go(-1)"></i>${title ? title : video}`
+    const pagetitle = document.querySelector('.page-title')
+    pagetitle.innerHTML = `<i class="fa-solid fa-arrow-left" onclick="history.go(-1)"></i>${title ? title : video}`
+    pagetitle.style.fontFamily='monospace'
   })
 }else{
   //给标题部分添加返回按钮，使用于所有不使用top_img的页面
-  const title =  document.querySelector('.page-title')
-  if(title){
-    let a = title.innerHTML
-    title.innerHTML = `<i class="fa-solid fa-arrow-left" onclick="history.go(-1)"></i>`+a
+  const  pagetitle =  document.querySelector('.page-title')
+  if(pagetitle){
+    let a = pagetitle.innerHTML
+    pagetitle.innerHTML = `<i class="fa-solid fa-arrow-left" onclick="history.go(-1)"></i>`+a
+    pagetitle.style.fontFamily='monospace'
   }
 }
