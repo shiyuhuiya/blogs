@@ -13,8 +13,8 @@ if (/\/animeClips\/play/.test(location.pathname)) {
     pagetitle.style.fontFamily='monospace'
   })
 }else{
-  //给标题部分添加返回按钮，使用于所有不使用top_img的页面
-  const  pagetitle =  document.querySelector('.page-title')
+  //给标题部分添加返回按钮，适用于所有不使用top_img的页面
+  const pagetitle =  document.querySelector('.page-title')
   if(pagetitle){
     let a = pagetitle.innerHTML
     pagetitle.innerHTML = `<i class="fa-solid fa-arrow-left" onclick="history.go(-1)"></i>`+a
