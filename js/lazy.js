@@ -1,1 +1,0 @@
-const images=document.querySelectorAll("img");images.forEach((e=>{e.src;e.src="";new IntersectionObserver(((e,r)=>{e.forEach((e=>{e.target.src=binding.value,r.unobserve(e.target)}))}),{threshold:0}).observe(e)}));
